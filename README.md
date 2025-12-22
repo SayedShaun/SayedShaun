@@ -1,5 +1,5 @@
 ### 💫 About Me:
-Machine Learning Engineer with expertise in Generative AI, NLP, and MLOps. I design, train, and deploy custom AI models—from Transformers to RAG-based systems—turning innovative ideas into production-ready applications.
+Machine Learning Engineer with expertise in Generative AI, NLP, and MLOps.
 
 
 ### 🌐Socials:
